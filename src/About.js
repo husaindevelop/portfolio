@@ -13,7 +13,7 @@ const About = () => {
       <div className="hero-content">
         <h1>Ahamed Husain</h1>
         <h3>Senior Full Stack Developer</h3>
-        <p>Rolled out 15 + projects | Created 30 + websites | Built 8 + android apps<br/>Proficient in PHP, Laravel, Nodejs, Java, React, Javascript, Jquery, Vuejs, HTML5, CSS3, Bootstrap, TailwindCSS, SQL</p>
+        <p>Rolled out 15 + SAAS projects | Created 30 + websites | Built 8 + hybrid android apps<br/>Proficient in PHP, Laravel, Nodejs, Java, Kotlin, React, Javascript, Jquery, Vuejs, HTML5, CSS3, Bootstrap, TailwindCSS, SQL</p>
       </div>
         </div>
          );
